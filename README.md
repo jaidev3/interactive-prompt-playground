@@ -41,6 +41,8 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
+### Add openai API in App.tsx file
+
 ## 🎯 How to Use
 
 ### 1. Configure Your Prompt
@@ -58,15 +60,7 @@ npm run dev
 - **Frequency Penalty**: Reduce repetition (0-2)
 - **Stop Sequence**: Define text that stops generation
 
-### 3. Run Experiments
-
-Click **"Run Playground"** to test 12 different parameter combinations and see how they affect the output.
-
-### 4. Analyze Results
-
-Review the results grid and built-in analysis to understand parameter effects.
-
-## 📊 Parameter Testing Matrix
+## 📊 Output format
 
 The playground automatically tests these combinations:
 
